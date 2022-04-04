@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+YouTube Tutorial
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Author: Codemy.com
+Title: Ruby on Rails Friends List App
+Link: https://youtube.com/playlist?list=PLCC34OHNcOtrk3BDsfZwf4GattdLoKCOF
